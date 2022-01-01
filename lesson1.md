@@ -81,7 +81,7 @@
 2. why do i have to accept the license agreement
 3. what is this kdump thing
 
-### Initail Login
+### Initial Login
 
 1. what are the login options
 2. what happens when i login
